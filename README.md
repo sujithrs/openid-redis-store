@@ -3,6 +3,11 @@ Redis Store for OpenID
 
 This is a simple store for OpenID authentication.
 
+Requirements
+------------
+
+Requires ruby-openid, redis Ruby library and Redis 2.x.x.
+
 Usage
 -----
 
